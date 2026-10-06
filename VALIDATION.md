@@ -168,3 +168,10 @@ Initial commit 0000bb270fa5150c1afe07604a3458701291e717 published to origin/main
 Release v1.0.0 published with app-debug.apk (25,513,993 bytes) and documentation 1.1 (51,698 bytes). GitHub asset digests equal local SHA-256: APK 34b1805003de9b0fea805a38c1c3da051c37c3d1fd9d2b126f0fdc27d97caf34; DOCX 2ab0c777c8043c58cf6eeee7608ba69c67ded237ae6d939677ae5f683efe65d7. Release points to the initial source commit. This later documentation commit changes only README, validation text and source-manifest hashes.
 
 During bootstrap git diff --check detected only blank EOF lines in LabViewModel.kt, LabApp.kt and generate_documentation.py. They were removed; no executable behavior changed and APK remains the previously tested build. No Gradle or device checks repeated solely for GitHub publication. Previous test/device evidence remains scoped as documented above.
+
+
+## Publiczny dostęp — 2026-10-06
+
+At the owner's explicit request, repository visibility was changed from PRIVATE to PUBLIC and confirmed with GitHub metadata. Earlier private-publication entries are historical. Source, documentation and v1.0.0 APK assets are now available to everyone. Local ignored tag backups, SDK settings and signing credentials remain excluded. No application behavior or physical NFC test changed.
+
+The existing automatic Codex synchronization mechanism only accepts PRIVATE repositories. Its safeguards were not modified; the catalog records this public exception and automatic-private bootstrap is disabled for this project. This task's narrowly scoped README/validation/source-manifest publication follows the owner's explicit public-sharing authorization using normal Git checks, without rewriting history or bypassing Git hooks.
