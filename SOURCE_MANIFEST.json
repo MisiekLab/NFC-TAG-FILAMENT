@@ -1,0 +1,217 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 111,
+    "sha256": "0aecf3692007f6a1aa11e75765700dc5b8a8c8368f551d9c2f6eb343d5721f61"
+  },
+  {
+    "path": "DEVICE_TEST_CHECKLIST.md",
+    "bytes": 4692,
+    "sha256": "10d73ad639ee4ddacd91dafed8d57fb81ce558045ff08d646a989c31ee136dab"
+  },
+  {
+    "path": "README.md",
+    "bytes": 14396,
+    "sha256": "2e4f3e04fa74afd9f1a83fef4c4715ca2730d6b10820b20610ce39ad8e505d93"
+  },
+  {
+    "path": "VALIDATION.md",
+    "bytes": 17442,
+    "sha256": "196207c0046fd6374a8182d6c1179fdabaccd540558c4e37698efd3a940695e6"
+  },
+  {
+    "path": "app/build.gradle.kts",
+    "bytes": 1406,
+    "sha256": "eade0ea8a6b043f802cde0c73d390d2e4e606fec420098e84c20062493296b2e"
+  },
+  {
+    "path": "app/src/main/AndroidManifest.xml",
+    "bytes": 1033,
+    "sha256": "3939c6b6a9274e9474a7905b88cd2782f099fdc86c625b41e2b4d38f6bc202c0"
+  },
+  {
+    "path": "app/src/main/java/pl/misieklab/nfccardlab/LabViewModel.kt",
+    "bytes": 22685,
+    "sha256": "e827cc41f0a1734d2c9192eae38bb1aadda0d56c5e42062e0806f1f8a40ce6af"
+  },
+  {
+    "path": "app/src/main/java/pl/misieklab/nfccardlab/MainActivity.kt",
+    "bytes": 965,
+    "sha256": "afa6be3b38ee5ab5063c2f4cfbd691ae154b4289a97be72b8b0807b6e672a452"
+  },
+  {
+    "path": "app/src/main/java/pl/misieklab/nfccardlab/SimpleWorkflow.kt",
+    "bytes": 2361,
+    "sha256": "80e86ea0f93e6f0ff6ebe4bee75da4121df7ed7567e164807d8a7ae2e85d1cde"
+  },
+  {
+    "path": "app/src/main/java/pl/misieklab/nfccardlab/nfc/ClassicNdefConversion.kt",
+    "bytes": 8337,
+    "sha256": "f1208b9139183895139b1c5260fdf0873a1309572369355adeb7216b7403676f"
+  },
+  {
+    "path": "app/src/main/java/pl/misieklab/nfccardlab/nfc/ControlledErase.kt",
+    "bytes": 9029,
+    "sha256": "fc2b0e93cef2e13629ea704b259beae35c50600aa24eb0eeba8d909ac3ec1ed3"
+  },
+  {
+    "path": "app/src/main/java/pl/misieklab/nfccardlab/nfc/DumpExporter.kt",
+    "bytes": 3034,
+    "sha256": "6269e7f24559399c4b940ac24af7d129dfc1c4b5d0c0a3fa924982a2d9aa5f0b"
+  },
+  {
+    "path": "app/src/main/java/pl/misieklab/nfccardlab/nfc/MifareClassicManager.kt",
+    "bytes": 8277,
+    "sha256": "bfb6e4b368a81263113e4600ff3779a09f1ffd93b324d08679544c1e0f6a8ed5"
+  },
+  {
+    "path": "app/src/main/java/pl/misieklab/nfccardlab/nfc/NdefManager.kt",
+    "bytes": 5544,
+    "sha256": "22ceb08fd215e22cdb230122506f005760edc878701701246beb6c2bff2d0ddc"
+  },
+  {
+    "path": "app/src/main/java/pl/misieklab/nfccardlab/nfc/NfcHexUtils.kt",
+    "bytes": 3175,
+    "sha256": "3fae8a3b8023d9de7f3bdac65a6506f814bbc930c5ca120a9f6727e0f27e18f5"
+  },
+  {
+    "path": "app/src/main/java/pl/misieklab/nfccardlab/nfc/NfcManager.kt",
+    "bytes": 3753,
+    "sha256": "103c7e8638194efed581d02fe1ad25ed973423abb60f8a605c48cbba919113b7"
+  },
+  {
+    "path": "app/src/main/java/pl/misieklab/nfccardlab/nfc/NfcResult.kt",
+    "bytes": 1277,
+    "sha256": "1470ba2bc394428098c7e0ec24c2fd1678f5bfac15e0a38462dac93c9727bb03"
+  },
+  {
+    "path": "app/src/main/java/pl/misieklab/nfccardlab/nfc/NfcTagInfo.kt",
+    "bytes": 1025,
+    "sha256": "1e6472128cdcc7c1f9d58c0fcc55770a56128fd4a5df90524313b16535375414"
+  },
+  {
+    "path": "app/src/main/java/pl/misieklab/nfccardlab/nfc/NfcTechDetector.kt",
+    "bytes": 2199,
+    "sha256": "ae5b536c0e439a938138b2b6c402cd4dea7273adf267712265980b60e7492ea5"
+  },
+  {
+    "path": "app/src/main/java/pl/misieklab/nfccardlab/ui/AppPicker.kt",
+    "bytes": 3620,
+    "sha256": "4be1584ad86fc6ecc8e696303a4c44b7cdc1069ba403ee2d51363a7d48607656"
+  },
+  {
+    "path": "app/src/main/java/pl/misieklab/nfccardlab/ui/LabApp.kt",
+    "bytes": 36698,
+    "sha256": "eefc876d21768a2cc15b75465f86f953168e8315f37394428e9e6f63f4ba8644"
+  },
+  {
+    "path": "app/src/main/java/pl/misieklab/nfccardlab/ui/SimpleScreen.kt",
+    "bytes": 16246,
+    "sha256": "91a235c62a40d5f8b2927bbf875a8875b3a5e07cb807a063307a883f4d7f07c0"
+  },
+  {
+    "path": "app/src/main/res/drawable/ic_lab.xml",
+    "bytes": 532,
+    "sha256": "613b3e685fbb5cdf6d7dff782a3283b92c6960e556091583617f74a0b5c5f946"
+  },
+  {
+    "path": "app/src/main/res/values/styles.xml",
+    "bytes": 375,
+    "sha256": "5f0ea9c5b89d94bf866359e4cd919d145840f5400028464dfe0ec59d21e09055"
+  },
+  {
+    "path": "app/src/main/res/xml/data_extraction_rules.xml",
+    "bytes": 1011,
+    "sha256": "b0e88f2e1ffb1c8de5783db430a938f0bb86987ded7aca3b5cf77590247ae09d"
+  },
+  {
+    "path": "app/src/test/java/pl/misieklab/nfccardlab/ActivitySmokeTest.kt",
+    "bytes": 574,
+    "sha256": "99184b1c402c44d4ea96e78f5337a57528b9ca2192f7906b2c27606c60aa3307"
+  },
+  {
+    "path": "app/src/test/java/pl/misieklab/nfccardlab/ApplicationRecordTest.kt",
+    "bytes": 2157,
+    "sha256": "02bfa8ff1bfbfd67761ea26829077af0bc4a16a7f85ea9397bfcac546312e0d3"
+  },
+  {
+    "path": "app/src/test/java/pl/misieklab/nfccardlab/ClassicNdefConversionTest.kt",
+    "bytes": 7596,
+    "sha256": "2c345f5a2c962c4b01e274843a5e7493e02e059c0a69ee8398614fcbb48bb07d"
+  },
+  {
+    "path": "app/src/test/java/pl/misieklab/nfccardlab/ClassicTransactionTest.kt",
+    "bytes": 4499,
+    "sha256": "0281ba6a62c7bed8678eef7ca7ab146df6fb1f0186f44528a7fb2cc0c7582c9a"
+  },
+  {
+    "path": "app/src/test/java/pl/misieklab/nfccardlab/ControlledEraseTest.kt",
+    "bytes": 6638,
+    "sha256": "47a4c0a448ce635c43a6760b3fbf95b37594a7e1a6f13293fa02871ae299eae1"
+  },
+  {
+    "path": "app/src/test/java/pl/misieklab/nfccardlab/HexAndPolicyTest.kt",
+    "bytes": 3733,
+    "sha256": "cb9a8ab3db2ba3500735b29eb06b61f8d5da689c22271409adf8ec590ce3de4c"
+  },
+  {
+    "path": "app/src/test/java/pl/misieklab/nfccardlab/NdefAndExportTest.kt",
+    "bytes": 3782,
+    "sha256": "902468b3a5e48992d1a30f72595eefa1b4108e20fbbe029bd275cdb06519033c"
+  },
+  {
+    "path": "app/src/test/java/pl/misieklab/nfccardlab/NfcSessionTest.kt",
+    "bytes": 5815,
+    "sha256": "241dc871a253ef2afc28db221379d37b6ba8873a639f54a9db145fbb7d6a1eda"
+  },
+  {
+    "path": "app/src/test/java/pl/misieklab/nfccardlab/SimpleWorkflowTest.kt",
+    "bytes": 2459,
+    "sha256": "b7573afc7c8971e54a8aa16fd3544278686e4563fb93f7854ab70cdbfd5fdde2"
+  },
+  {
+    "path": "build.gradle.kts",
+    "bytes": 218,
+    "sha256": "33ee21767289d9c820b8c35849364a7cfa63ac073ca5e556a75282418fd94bf9"
+  },
+  {
+    "path": "docs/NFC_Card_Lab_Dokumentacja_projektu_2026-10-05.docx",
+    "bytes": 51698,
+    "sha256": "2ab0c777c8043c58cf6eeee7608ba69c67ded237ae6d939677ae5f683efe65d7"
+  },
+  {
+    "path": "docs/generate_documentation.py",
+    "bytes": 29773,
+    "sha256": "48a8971497b8cd062910479761045cda8da8e213964f7f7c9035ef01d127df90"
+  },
+  {
+    "path": "gradle.properties",
+    "bytes": 103,
+    "sha256": "f36eb4825f12cb1892b70c34ecf6e2b2b0d1953f6bc87c63936ebea5795d21ac"
+  },
+  {
+    "path": "gradle/wrapper/gradle-wrapper.jar",
+    "bytes": 43583,
+    "sha256": "2db75c40782f5e8ba1fc278a5574bab070adccb2d21ca5a6e5ed840888448046"
+  },
+  {
+    "path": "gradle/wrapper/gradle-wrapper.properties",
+    "bytes": 251,
+    "sha256": "e5d2e373ed6a86a5a0721f4a3665fae673f31a87d64a113b946d5de39586dc44"
+  },
+  {
+    "path": "gradlew",
+    "bytes": 9036,
+    "sha256": "3b04d2c4ad7491539488d4818fc8580091fef9c52d2fdad089a9d6179d8337d5"
+  },
+  {
+    "path": "gradlew.bat",
+    "bytes": 273,
+    "sha256": "2ef3bb47518c254de1340fe01bd05c5751b15d3222a27a630c7bcd9fe629d46e"
+  },
+  {
+    "path": "settings.gradle.kts",
+    "bytes": 281,
+    "sha256": "617ffaaed49ada8564f82d7d55a203a15c50561167a734cc85be73992490a230"
+  }
+]
