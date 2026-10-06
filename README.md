@@ -4,7 +4,12 @@
 
 Repozytorium: https://github.com/iikakaczmarekmichal-sys/NFC-Card-Lab — PRIVATE.
 
-Aktualne APK i dokument Word będą dostępne w wydaniach GitHub Releases. Dostęp do prywatnego repozytorium i jego wydań wymaga uprawnienia. APK jest wersją debug, nie wydaniem Google Play. Projekt zawiera źródła, testy, Gradle Wrapper i dokumentację; kopie odczytów własnych tagów, katalogi build/cache, ustawienia SDK i klucze podpisu nie są publikowane.
+Aktualne APK i dokument Word są dostępne w [wydaniu v1.0.0](https://github.com/iikakaczmarekmichal-sys/NFC-Card-Lab/releases/tag/v1.0.0).
+
+- [Pobierz APK](https://github.com/iikakaczmarekmichal-sys/NFC-Card-Lab/releases/download/v1.0.0/app-debug.apk)
+- [Pobierz dokumentację Word](https://github.com/iikakaczmarekmichal-sys/NFC-Card-Lab/releases/download/v1.0.0/NFC_Card_Lab_Dokumentacja_projektu_2026-10-05.docx)
+
+ Dostęp do prywatnego repozytorium i jego wydań wymaga uprawnienia. APK jest wersją debug, nie wydaniem Google Play. Projekt zawiera źródła, testy, Gradle Wrapper i dokumentację; kopie odczytów własnych tagów, katalogi build/cache, ustawienia SDK i klucze podpisu nie są publikowane.
 
 Dokument Word z 5 października opisuje stan przed utworzeniem repozytorium. Publikację rozpoczęto 6 października 2026; aktualne informacje o GitHub znajdują się w tym README oraz VALIDATION.md.
 

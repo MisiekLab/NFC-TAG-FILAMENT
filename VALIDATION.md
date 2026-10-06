@@ -159,3 +159,12 @@ KNOWN_LIMITATIONS: standard NdefFormatable.format did not succeed on the earlier
 ## Prywatne repozytorium GitHub — 2026-10-06
 
 Repository created and visibility verified PRIVATE: https://github.com/iikakaczmarekmichal-sys/NFC-Card-Lab. Initial source publication scope: 44 reviewed files including Gradle Wrapper, Kotlin code, tests, documentation and source manifest. Ignored backups, local.properties, caches, build directories and signing credentials are excluded. Phone serial removed from shared validation text. APK and DOCX are intended as release assets; completion and remote commit are verified separately after upload. Historical pre-Git status in documentation dated 2026-10-05 remains a record of that earlier stage. No new physical NFC test or new build is claimed for publication.
+
+
+### Zakończenie pierwszej publikacji
+
+Initial commit 0000bb270fa5150c1afe07604a3458701291e717 published to origin/main; local and remote SHA matched. GitHub repository visibility rechecked PRIVATE; default branch main. Repository registered in the existing central projects.json, whose Finish returned SYNCED at cb203950ff08d04db9dccc31c4e8442f72a9689c.
+
+Release v1.0.0 published with app-debug.apk (25,513,993 bytes) and documentation 1.1 (51,698 bytes). GitHub asset digests equal local SHA-256: APK 34b1805003de9b0fea805a38c1c3da051c37c3d1fd9d2b126f0fdc27d97caf34; DOCX 2ab0c777c8043c58cf6eeee7608ba69c67ded237ae6d939677ae5f683efe65d7. Release points to the initial source commit. This later documentation commit changes only README, validation text and source-manifest hashes.
+
+During bootstrap git diff --check detected only blank EOF lines in LabViewModel.kt, LabApp.kt and generate_documentation.py. They were removed; no executable behavior changed and APK remains the previously tested build. No Gradle or device checks repeated solely for GitHub publication. Previous test/device evidence remains scoped as documented above.

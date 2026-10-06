@@ -11,13 +11,13 @@
   },
   {
     "path": "README.md",
-    "bytes": 14396,
-    "sha256": "2e4f3e04fa74afd9f1a83fef4c4715ca2730d6b10820b20610ce39ad8e505d93"
+    "bytes": 14745,
+    "sha256": "32f0ad9f71aa4cc7802a12d1527a3682bb6c1b39b124c95972e88d408998f8c4"
   },
   {
     "path": "VALIDATION.md",
-    "bytes": 17442,
-    "sha256": "196207c0046fd6374a8182d6c1179fdabaccd540558c4e37698efd3a940695e6"
+    "bytes": 18589,
+    "sha256": "0eac99128c16351df4cec86516114e5d9308a1902bdb47ba15384b4fd2b43ff1"
   },
   {
     "path": "app/build.gradle.kts",
